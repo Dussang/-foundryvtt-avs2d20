@@ -1,0 +1,20 @@
+{
+  "Actor": {
+    "types": [
+      "Agent",
+      "NPC"
+    ],
+    "htmlFields": [
+      "background.biography.value",
+      "background.biography.public"
+    ]
+  },
+  "Item": {
+    "types": [
+      "weapon",
+      "clothes",
+      "consumable",
+      "equipment"
+    ]
+  }
+}

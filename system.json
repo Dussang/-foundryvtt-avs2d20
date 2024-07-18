@@ -16,7 +16,7 @@
         }
     ],
     "esmodules": [
-        "mysystem.mjs"
+        "avs2d20.mjs"
     ],
     "styles": [
         "styles/system-styles.css"
@@ -28,8 +28,8 @@
             "type": "Item"
         },
         {
-            "name": "features",
-            "label": "Features",
+            "name": "traits",
+            "label": "Traits",
             "type": "Item"
         }
     ],
