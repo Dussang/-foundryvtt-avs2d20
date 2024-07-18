@@ -1,0 +1,52 @@
+{
+    "id": "avs2d20",
+    "title": "Agents VS Supers 2d20",
+    "description": "An system on base 2d20 core for games in the setting of the early 21st century",
+    "version": "0.0.1",
+    "compatibility": {
+        "minimum": 12,
+        "verified": 12
+    },
+    "authors": [
+        {
+            "name": "Vladislav Anistratov",
+            "url": "https://github.com/Dussang",
+            "email": "",
+            "discord": ""
+        }
+    ],
+    "esmodules": [
+        "mysystem.mjs"
+    ],
+    "styles": [
+        "styles/system-styles.css"
+    ],
+    "packs": [
+        {
+            "name": "items",
+            "label": "Items",
+            "type": "Item"
+        },
+        {
+            "name": "features",
+            "label": "Features",
+            "type": "Item"
+        }
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        },
+        {
+            "lang": "ru",
+            "name": "Russian",
+            "path": "lang/ru.json"
+        }
+    ],
+    "socket": false,
+    "url": "https://your/hosted/system/repo/",
+    "manifest": "https://your/hosted/system/repo/system.json",
+    "download": "https://your/packaged/download/archive.zip"
+}

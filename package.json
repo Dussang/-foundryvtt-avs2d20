@@ -1,0 +1,19 @@
+{
+  "name": "avs2d20",
+  "version": "0.0.1",
+  "description": "This is the my system on base 2d20 core for Foundry VTT.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dussang/-foundryvtt-avs2d20.git"
+  },
+  "author": "Vladislav Anistratov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dussang/-foundryvtt-avs2d20/issues"
+  },
+  "homepage": "https://github.com/Dussang/-foundryvtt-avs2d20#readme"
+}
